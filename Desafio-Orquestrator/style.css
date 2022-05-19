@@ -1,0 +1,20 @@
+header,
+.container {
+  min-height: 64px;
+}
+header > .container {
+  background-color: #f37520;
+}
+.artigos {
+  height: 360px;
+}
+
+ .menu-lateral ul li {
+  padding: 0.5rem;
+  border-bottom: solid 1px;
+}
+.menu-lateral {
+  height: 360px;
+  padding: 1rem 1.5rem 0;
+  width: 250px;
+}
